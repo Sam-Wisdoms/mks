@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: burlywood;
+}
+
+.topnav{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.topnav a{
+    float: right;
+    color: rgb(29, 64, 95);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 24px;
+    font-size: 3rem;
+    margin: 15px 20px;
+}
